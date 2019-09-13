@@ -39,4 +39,4 @@ npm start
 *Remake by: Yepz*
 
 - UPDATE IN
-2 MARET 2019
+13 SEPTEMBER 2019
