@@ -11,7 +11,7 @@ pkg install nodejs
 pkg install coreutils
 pkg install nodejs-current -y
 pkg install nodejs-current-dev
-cd testi-js
+cd myJS
 npm i
 cd src
 npm install
@@ -28,7 +28,7 @@ sudo apt-get install nodejs
 sudo apt-get install coreutils
 sudo apt-get install nodejs-current -y
 sudo apt-get install nodejs-current-dev
-cd testi-js
+cd myJS
 npm i
 cd src
 npm install
