@@ -15,6 +15,7 @@ cd myJS
 npm i
 cd src
 npm install
+npm autid fix
 npm start
 
 ```
@@ -32,6 +33,7 @@ cd myJS
 npm i
 cd src
 npm install
+npm audit fix
 npm start
 
 ```
