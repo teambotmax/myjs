@@ -1,15 +1,12 @@
-# LINE PEKOK JS VERSION BETA TEST
-[![TrioPekokBots](https://avatars2.githubusercontent.com/u/46437025?s=460&v=4)](http://line.me/ti/p/~cuma.akun.titipan)
-
 # CHAT ME
-<a href="https://line.me/R/ti/p/~cuma.akun.titipan"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+<a href="https://line.me/R/ti/p/~myyepz"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 ## Running in Termux
 ```
 pkg update
 pkg upgrade
 pkg install git
-git clone https://github.com/bukankaleng/testi-js
+git clone https://github.com/Myyepz/myJS
 pkg install nodejs
 pkg install coreutils
 pkg install nodejs-current -y
@@ -26,7 +23,7 @@ npm start
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
-git clone https://github.com/bukankaleng/testi-js
+git clone https://github.com/Myyepz/myJS
 sudo apt-get install nodejs
 sudo apt-get install coreutils
 sudo apt-get install nodejs-current -y
@@ -38,36 +35,8 @@ npm install
 npm start
 
 ```
-## For List
-```
-╼━━━━━━─━━━━━━╾
-⚜ TRIO PEKOK BOTS ⚜
-⚜ Open Order ⚜
-╼━━━━━━─━━━━━━╾
-✍ Selfbot biasa
-✍ Selfbot biasa + antijs
-✍ Selfbot template
-✍ Selfbot template + antijs
-✍ Selfbot protect
-✍ Selfbot protect + antijs
-✍ Bot protect cl
-✍ Bot protect cl + antijs
-╼━━━━━━─━━━━━━╾
-⚜ Open Jasa
-╼━━━━━━─━━━━━━╾
-✍ Login bypass
-✍ Spam invite
-✍ Spam mc
-✍ Open Vps 
-✍ Token primary 
-╼━━━━━━─━━━━━━╾
-line.me/ti/p/~cuma.akun.titipan
-line.me/R/ti/p/~please.jan.goblog
-╼━━━━━━─━━━━━━╾
-
-```
-*LINE PEKOK JS*
-*Remake by: TRIO PEKOK BOTS*
+*LINE NEW JS*
+*Remake by: Yepz*
 
 - UPDATE IN
 2 MARET 2019
